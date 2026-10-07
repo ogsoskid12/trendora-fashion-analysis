@@ -1,5 +1,5 @@
 ## Trendora Fashion Performance Report (2025)
-![Header Image](header_image.png)
+
 ## Executive Summary
 This analysis looks at the performance of Trendora Fashion in 2025. It focuses on the total purchase amount, review rating, products purchased, payment methods, seasonal purchases, and customer age groups.
 ## Business Context
@@ -14,9 +14,9 @@ The report answers the following key questions:
 ## Data Overview
 The analysis is based on a dataset of above 3,000 transactions and 17 columns, covering made in 2025. The dataset contains information about customer purchases, product purchased, payment methods, review ratings, age groups and seasons.
 ## Data Preview
-![Data Preview](Excel preview.png)
+
 ## Dashboard Image
-![Data Preview](trendora_dashboard_(Ogunleke Sodiq).png)
+
 Link to report
 ## Data Cleaning and Transformation
 -	Removed duplicates from the entire dataset.
